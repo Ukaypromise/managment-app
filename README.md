@@ -1,24 +1,52 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 🚀 Short Video Demostraction <a name="video"></a>
 
-Things you may want to cover:
+- [Video](https://youtu.be/-azN7oZ_Eas)
 
-* Ruby version
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-* System dependencies
+<!-- GETTING STARTED -->
 
-* Configuration
+## 💻 Getting Started <a name="getting-started"></a>
 
-* Database creation
+<!-- > Describe how a new developer could make use of your project. -->
 
-* Database initialization
+To get a local copy up and running, follow these steps.
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+In order to run this project you need: 
 
-* Deployment instructions
+### Setup
 
-* ...
+Clone this repository to your desired folder:
+
+```sh
+  git clone https://github.com/Ukaypromise/managment-app
+  cd managment-app
+```
+
+
+### Install
+
+Install this project with:
+
+```sh
+  bundle install
+```
+```sh
+  rails db:create
+  rails db:migrate
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+
+```sh
+  rails server
+```
+
+
